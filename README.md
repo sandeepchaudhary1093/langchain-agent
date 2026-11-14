@@ -2,7 +2,7 @@ conda create -n langagent python=3.11 -y
 
 conda activate langagent
 
-pip install -r requirenments.txt
+pip install -r requirements.txt
 
 Create a `.env` file in the project root with your API keys:
 
